@@ -1,0 +1,11 @@
+{
+  "limitCount": 100,
+  "memberLimit": 100,
+  "groupLimit": 25,
+  "mtc": false,
+  "restartState": false,
+  "restartId": "undefined",
+  "banChats": true,
+  "Rest": true,
+  "mtc": false
+}
